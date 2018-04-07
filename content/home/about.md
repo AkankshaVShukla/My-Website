@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+     "Software Engineering",
+     "Cloud Computing",
+     "Big Data",
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Masters in Computer Science"
+  institution = "North Carolina State University"
+  year = 2018
+
+[[education.courses]]
+  course = "Bachelors in Computer Engineering"
+  institution = "University of Mumbai"
   year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
-# Biography
+# About
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there! I am Akanksha.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a Computer Science Graduate Student at NC State University. 
+
+I am self-driven, innovative in my approach to technology and strategic thinker who has delivered solutions to complex enterprise applications. I like learning technologies, implementing, collaborating on projects and making impact. 
